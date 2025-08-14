@@ -1,0 +1,64 @@
+{
+    "headAvatarMetadata": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.03999999910593033
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        },
+        "meshes": [
+            "Acc1",
+            "Acc2",
+            "Acc3",
+            "Body",
+            "D_Tale",
+            "HairBack",
+            "HairFront",
+            "Hone",
+            "Item2"
+        ]
+    },
+    "bodyAvatarMetadata": {
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "scale": {
+            "x": 1.2999999523162842,
+            "y": 1.2999999523162842,
+            "z": 1.2999999523162842
+        },
+        "meshes": [
+            "Milltina_body",
+            "Milltina_cloth_apron",
+            "Milltina_cloth_bra",
+            "Milltina_cloth_collar",
+            "Milltina_cloth_dress",
+            "Milltina_cloth_garterbelt",
+            "Milltina_cloth_hair_ribbon",
+            "Milltina_cloth_hat",
+            "Milltina_cloth_neck_ribbon",
+            "Milltina_cloth_panties",
+            "Milltina_cloth_shoes",
+            "Milltina_cloth_skirt",
+            "Milltina_cloth_tail_ribbon",
+            "Milltina_cloth_tail_slit",
+            "Milltina_cloth_wrist_cuffs"
+        ]
+    }
+}
